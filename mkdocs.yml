@@ -1,0 +1,5 @@
+site_name: Digitaal Archiveren documentatie
+pages:
+    - Home: index.md
+    - About: about.md
+theme: readthedocs
