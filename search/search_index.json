@@ -1,0 +1,34 @@
+{
+    "docs": [
+        {
+            "location": "/",
+            "text": "Digitaal Archiveren\n\n\nVia de applicatie 'Digitaal Archiveren' (DA) kunnen gemeentelijke medewerkers op een makkelijke manier digitale bestanden aanleveren ter archivering. Aangeleverde bestanden worden door de afdeling BDI verwerkt, wat in de meeste gevallen betekent dat ze met de juiste beschrijvende gegevens in Corsa worden gearchiveerd.\n\n\nBijzonderheden\n\n\n\n\nDA is voor alle medewerkers binnen gemeente Nijmegen bruikbaar\n\n\nEr wordt een minimaal aantal beschrijvende gegevens gevraagd voor verzending.\n\n\nDA is te starten vanuit inSite (Direct Verwerken) of via het adres 'dieden:/da'\n\n\n\n\nStatus\n\n\nDe applicatie is nog in ontwikkeling!",
+            "title": "Home"
+        },
+        {
+            "location": "/#digitaal-archiveren",
+            "text": "Via de applicatie 'Digitaal Archiveren' (DA) kunnen gemeentelijke medewerkers op een makkelijke manier digitale bestanden aanleveren ter archivering. Aangeleverde bestanden worden door de afdeling BDI verwerkt, wat in de meeste gevallen betekent dat ze met de juiste beschrijvende gegevens in Corsa worden gearchiveerd.",
+            "title": "Digitaal Archiveren"
+        },
+        {
+            "location": "/#bijzonderheden",
+            "text": "DA is voor alle medewerkers binnen gemeente Nijmegen bruikbaar  Er wordt een minimaal aantal beschrijvende gegevens gevraagd voor verzending.  DA is te starten vanuit inSite (Direct Verwerken) of via het adres 'dieden:/da'",
+            "title": "Bijzonderheden"
+        },
+        {
+            "location": "/#status",
+            "text": "De applicatie is nog in ontwikkeling!",
+            "title": "Status"
+        },
+        {
+            "location": "/about/",
+            "text": "About\n\n\nDe applicatie Digitaal Archiveren is op verzoek van de afdeling BDI gemaakt.\n\n\nDe applicatie is gemaakt met NodeJS en staat op de interne server 'Dieden'.",
+            "title": "About"
+        },
+        {
+            "location": "/about/#about",
+            "text": "De applicatie Digitaal Archiveren is op verzoek van de afdeling BDI gemaakt.  De applicatie is gemaakt met NodeJS en staat op de interne server 'Dieden'.",
+            "title": "About"
+        }
+    ]
+}
