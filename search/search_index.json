@@ -21,6 +21,16 @@
             "title": "Status"
         },
         {
+            "location": "/deps/",
+            "text": "Dependencies\n\n\nIn versie 0.2 zijn de volgende dependencies aanwezig:\n\n    \"express\": \"^4.13.3\",\n\n    \"forever\": \"^0.15.3\",\n\n    \"formidable\": \"^1.0.17\",\n\n    \"moment\": \"^2.19.2\",\n\n    \"mysql\": \"^2.15.0\",\n\n    \"nodemailer\": \"^4.1.0\",\n*    \"nodemon\": \"^1.12.1\"",
+            "title": "Dependencies"
+        },
+        {
+            "location": "/deps/#dependencies",
+            "text": "In versie 0.2 zijn de volgende dependencies aanwezig:     \"express\": \"^4.13.3\",     \"forever\": \"^0.15.3\",     \"formidable\": \"^1.0.17\",     \"moment\": \"^2.19.2\",     \"mysql\": \"^2.15.0\",     \"nodemailer\": \"^4.1.0\",\n*    \"nodemon\": \"^1.12.1\"",
+            "title": "Dependencies"
+        },
+        {
             "location": "/about/",
             "text": "About\n\n\nDe applicatie Digitaal Archiveren is op verzoek van de afdeling BDI gemaakt.\n\n\nDe applicatie is gemaakt met NodeJS en staat op de interne server 'Dieden'.",
             "title": "About"
